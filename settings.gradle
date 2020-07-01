@@ -1,0 +1,2 @@
+rootProject.name='PaypalPaymentModule'
+include ':app'
